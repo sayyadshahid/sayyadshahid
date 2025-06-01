@@ -68,18 +68,24 @@ Savitri Bai Phule Pune University (SPPU)
 
 ---
 
-### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=light&langs_count=8&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=light&hide_border=false)
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=ffffff&color=000000&line=00bfff&point=000000&area=true&hide_border=true" alt="GitHub Activity Graph" /></p>
+### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Furqan&layout=compact&theme=light&langs_count=8&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Furqan&theme=light&hide_border=false)
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Furqan&bg_color=121212&color=ffffff&line=ffffff&point=00ff40&area=true&hide_border=true" alt="Mohammad-Furqan" /></p>
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
+
+---
 ### 📫 Let's Connect!
 
 I'm open to internships, collaborations, and freelance projects. Feel free to reach out!
-
+ 
 <div align="left">
   <a href="mailto:i.shahidsayyad@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
