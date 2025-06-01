@@ -44,6 +44,12 @@ I'm a passionate entry-level full-stack developer eager to grow and contribute t
 
 ### 🚀 Projects
 
+
+#### 💻 Hospital Management System (Dynamic)  
+*Tech Stack: React, FastAPI, MongoDB*  
+This is my **first dynamic full-stack project** where I implemented user registration, hospital service management, and real-time data operations.  
+This project helped me understand how frontend and backend communicate using REST APIs, and it marked a major step in my journey as a full-stack developer.
+
 #### 🎮 Pokedex  
 *Tech Stack: HTML, CSS, JavaScript*  
 Designed and developed a responsive static website dedicated to showcasing India's largest Pokémon collection.
@@ -59,6 +65,10 @@ Personal portfolio website created to showcase projects, skills, and achievement
 #### ⌚ Jacsto  
 *Tech Stack: HTML, CSS*  
 Mobile-friendly static website built to showcase a premium collection of luxury watches.
+
+#### 🏥 Hospital Management (Static)  
+*Tech Stack: HTML, CSS, JavaScript*  
+Created a clean and responsive static hospital management website to display patient services and information. Focused on layout design and user-friendly navigation.
 
 ---
 
