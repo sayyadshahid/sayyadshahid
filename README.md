@@ -28,6 +28,7 @@ I'm a passionate entry-level full-stack developer eager to grow and contribute t
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Backend:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,6 +36,7 @@ I'm a passionate entry-level full-stack developer eager to grow and contribute t
 
 **Database & Tools:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Integration-ff9900?style=for-the-badge&logo=OpenAI&logoColor=white)
 
@@ -68,11 +70,11 @@ Savitri Bai Phule Pune University (SPPU)
 
 ---
 
-
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Furqan&layout=compact&theme=light&langs_count=8&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Furqan&theme=light&hide_border=false)
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Furqan&bg_color=121212&color=ffffff&line=ffffff&point=00ff40&area=true&hide_border=true" alt="Mohammad-Furqan" /></p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidsayyad&layout=compact&theme=light&langs_count=8&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahidsayyad&theme=light&hide_border=false)
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shahidsayyad&bg_color=121212&color=ffffff&line=ffffff&point=00ff40&area=true&hide_border=true" alt="GitHub Activity Graph" /></p>
 
 ---
 
@@ -80,8 +82,8 @@ Savitri Bai Phule Pune University (SPPU)
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
-
 ---
+
 ### 📫 Let's Connect!
 
 I'm open to internships, collaborations, and freelance projects. Feel free to reach out!
