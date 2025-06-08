@@ -73,7 +73,7 @@ Created a clean and responsive static hospital management website to display pat
 
 ### 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**  
+**Bachelor of Science In Computer Applications**  
 Savitri Bai Phule Pune University (SPPU)  
 🎓 Currently Pursuing – 1st Year
 
