@@ -15,7 +15,7 @@
 
 ### 👋 Hello There!
 
-I'm a passionate entry-level full-stack developer eager to grow and contribute to a dynamic team. I have hands-on experience in designing responsive web applications using HTML, CSS, JavaScript, and backend technologies like Python and FastAPI. I'm also interested in AI integration and inclusive development.
+I'm a passionate  full-stack developer eager to grow and contribute to a dynamic team. I have hands-on experience in designing responsive web applications using HTML, CSS, JavaScript, and backend technologies like Python and FastAPI. I'm also interested in AI integration and inclusive development.
 
 ---
 
