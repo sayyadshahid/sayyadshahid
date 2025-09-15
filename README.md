@@ -1,6 +1,6 @@
-## 📌 Shahid Sayyad
+## Shahid Sayyad
 
-🚀 **Full Stack Developer**  
+ **Full Stack Developer**  
 📍 Pune, India | 📧 i.shahidsayyad@gmail.com
 
 <div align="left">
