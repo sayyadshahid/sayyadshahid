@@ -106,7 +106,6 @@ _Savitribai Phule Pune University (SPPU)_
 ### 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyadshahid&layout=compact&theme=default&hide_border=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayyadshahid&theme=default&hide_border=false)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sayyadshahid&bg_color=ffffff&color=000000&line=0077b5&point=333333&area=true&hide_border=true)
 
 ---
