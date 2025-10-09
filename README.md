@@ -101,7 +101,7 @@ My focus is on creating products that combine clean UI, solid backend architectu
 ### 🧑‍💻 **Portfolio**
 
 🌐 **Check out my live portfolio:**  
-👉 [**sayyadshahid.github.io/portfolio**](https://sayyadshahid.github.io/portfolio)  
+👉 [**sayyadshahid.github.io/portfolio**](https://sayyadshahid.github.io/portfolio/)  
 
 My portfolio highlights my projects, skills, and professional journey as a **Full-Stack Developer** — featuring real-time deployed apps, clean UI/UX, and technical implementations across React, FastAPI, and AI integration.
 
