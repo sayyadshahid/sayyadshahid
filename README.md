@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/shahid-sayyad-23a0bb331/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://sayyadshahid.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  </a>
 </div>
 
 ---
@@ -92,7 +95,16 @@ My focus is on creating products that combine clean UI, solid backend architectu
 #### 🎮 Pokédex  
 **Tech Stack:** HTML, CSS, JavaScript  
 - Built a responsive Pokédex web app showcasing India’s largest Pokémon collection.
- 
+
+---
+
+### 🧑‍💻 **Portfolio**
+
+🌐 **Check out my live portfolio:**  
+👉 [**sayyadshahid.github.io/portfolio**](https://sayyadshahid.github.io/portfolio)  
+
+My portfolio highlights my projects, skills, and professional journey as a **Full-Stack Developer** — featuring real-time deployed apps, clean UI/UX, and technical implementations across React, FastAPI, and AI integration.
+
 ---
 
 ### 🎓 Education
