@@ -92,11 +92,7 @@ My focus is on creating products that combine clean UI, solid backend architectu
 #### 🎮 Pokédex  
 **Tech Stack:** HTML, CSS, JavaScript  
 - Built a responsive Pokédex web app showcasing India’s largest Pokémon collection.
-
-#### 🎵 Spotify Clone  
-**Tech Stack:** HTML, CSS, JavaScript  
-- Created a UI clone of Spotify focusing on modern, responsive layouts.
-
+ 
 ---
 
 ### 🎓 Education
