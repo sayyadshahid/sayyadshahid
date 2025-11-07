@@ -1,4 +1,4 @@
-## 👨‍💻 **Shahid Sayyad**
+## **Shahid Sayyad**
 
 **Full-Stack Developer | AI & Web Integration Enthusiast**  
 📍 Pune, India | 📧 [i.shahidsayyad@gmail.com](mailto:i.shahidsayyad@gmail.com) | 📞 +91 8600330286  
