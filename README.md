@@ -1,137 +1,207 @@
-## **Shahid Sayyad**
+# <div align="center">Hi, I'm Shahid Sayyad 👋</div>
 
-**Full-Stack Developer | AI & Web Integration Enthusiast**  
-📍 Pune, India | 📧 [i.shahidsayyad@gmail.com](mailto:i.shahidsayyad@gmail.com) | 📞 +91 8600330286  
-🔗 [LinkedIn](https://www.linkedin.com/in/shahid-sayyad-23a0bb331/) | [GitHub](https://github.com/sayyadshahid) | [Portfolio](https://sayyadshahid.github.io/portfolio)
+<h3 align="center">Full-Stack Developer | Python & FastAPI | AI & Cloud Enthusiast</h3>
 
-<div align="left">
-  <a href="mailto:i.shahidsayyad@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="center">
+  📍 <b>Pune, Maharashtra, India</b> &nbsp;•&nbsp;
+  📧 <a href="mailto:i.shahidsayyad@gmail.com">i.shahidsayyad@gmail.com</a> &nbsp;•&nbsp;
+  📱 +91 8600330286
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahid-sayyad-23a0bb331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/shahid-sayyad-23a0bb331/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://github.com/sayyadshahid">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://sayyadshahid.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  <a href="https://sayyadshahid.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-</div>
+  <a href="mailto:i.shahidsayyad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-### 👋 **About Me**
+## 👨‍💻 About Me
 
-I’m a **Full-Stack Developer** focused on building scalable, high-performance, and visually appealing web applications.  
-Currently working at **Fladdra Technologies**, I specialize in **React.js**, **FastAPI**, and **AI-powered integrations** using LangChain & ChatGPT.  
-
-My passion lies in creating seamless digital experiences — combining **clean UI/UX**, **efficient backend design**, and **intelligent automation**.
+- 🚀 I'm a **Full-Stack Developer** focused on building scalable, reliable, and high-performance web applications.
+- 🐍 I specialize in **Python, FastAPI, Django, React, and Next.js**, building complete solutions from frontend interfaces to backend APIs.
+- ☁️ I work with **AWS, Docker, Linux, and CI/CD** to deploy and manage production applications.
+- 🤖 I'm exploring **AI-powered applications and integrations** using LangChain and LLM-based workflows.
+- 💼 Currently working as a **Software Engineer at Microzen Technologies**, contributing to production applications and frontend development.
+- 🎓 Pursuing a **Bachelor of Science in Computer Applications** at Savitribai Phule Pune University.
+- 💬 Ask me about Python, FastAPI, REST APIs, React, PostgreSQL, Docker, and backend development.
 
 ---
 
-### 🧠 **Technical Skills**
+## 🛠️ Tech Stack
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**  
+**Backend Development**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
-**Database**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Database & Data Management**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**AI / ML Integration**  
-![LangChain](https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge&logo=python&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+**Cloud & DevOps**
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
-### 💼 **Experience**
+## 💼 Experience
 
-**Full-Stack Developer – Fladdra Technologies**  
-📍 Pune, India | 🗓 *Jan 2025 – Dec 2025*  
+### 🟢 Software Engineer — Microzen Technologies
 
-- Developed **high-performance React.js components**, improving load speed and user engagement by 30%.  
-- Built and deployed **RESTful APIs** in FastAPI with secure authentication & optimized data flow.  
-- Designed **Admin & User dashboards**, automating 40% of manual workflows.  
-- Collaborated with cross-functional teams to deliver **full-stack solutions** with clean integration.  
+🗓️ *March 2026 – Present* &nbsp;|&nbsp; Pune, India
 
----
+- Lead frontend development using **React.js**, coordinating with backend teams on API contracts and data flow.
+- Contribute to multiple projects across a cross-functional team of **8+ engineers**.
+- Work with **Next.js and Angular** applications, improving performance and integration with backend services.
+- Build production-ready features with a focus on maintainability, scalability, and user experience.
 
-### 🚀 **Highlighted Projects**
+### 🔵 Full-Stack Developer — Fladdra Technologies
 
-#### 🏥 [Hospital Management System (Full Stack)](https://hospital-managment-dynamic-web-app-shahids-projects-7019af7c.vercel.app/)
-**Stack:** React, FastAPI, MongoDB, JWT Auth  
-- Developed a complete hospital management system with **role-based login** (Admin & User).  
-- Integrated an **AI chatbot** to assist patients & admins — improving query resolution by 40%.  
-- Created a responsive **Admin Dashboard** to manage hospital operations efficiently.  
+🗓️ *January 2025 – March 2026* &nbsp;|&nbsp; Pune, India
 
-#### 🎓 [CareerView – AI-Powered Career Preparation Platform](https://careerview.fladdra.com/)
-**Stack:** FastAPI, React, MongoDB, LangChain, ChatGPT  
-- Engineered an **AI-driven mock interview & video assessment platform**.  
-- Implemented **real-time transcription & scoring pipelines** using LangChain.  
-- Designed role-based dashboards for **students, trainers, and admins**.  
-
-#### ☁️ [CloudsNetworking – E-Learning Platform](https://cloudsnetworking.in/)
-**Stack:** React, FastAPI, PostgreSQL  
-- Built and integrated APIs for **courses, blogs, feedback, and user authentication**.  
-- Automated email workflows for contact & enrollment.  
-- Created **Admin & User panels** to simplify platform operations.  
-
-#### 🎮 Pokédex  
-**Stack:** HTML, CSS, JavaScript  
-- Designed a responsive Pokédex showcasing **India’s largest Pokémon collection**.  
+- Developed and deployed **50+ RESTful API endpoints** using FastAPI for authentication and data operations.
+- Designed backend logic for admin and user dashboards, automating data workflows.
+- Built responsive and reusable UI components using **React.js**.
+- Integrated frontend applications with backend services and optimized API communication.
+- Contributed to full-stack applications involving database operations and business workflows.
 
 ---
 
-### 🧑‍💻 **Portfolio**
+## 🚀 Featured Projects
 
-🌐 **Visit my live portfolio:**  
-👉 [**sayyadshahid.github.io/portfolio**](https://sayyadshahid.github.io/portfolio)  
+### 🏥 [Hospital Management System](https://hospital-managment-dynamic-web-app-shahids-projects-7019af7c.vercel.app/)
 
-My portfolio showcases my projects, skillset, and professional growth as a **Full-Stack Developer**, featuring interactive UI, AI-driven components, and fully deployed applications.
+<text> </text>
+
+**Tech Stack:** React, TypeScript, FastAPI, MongoDB, JWT
+
+- Developed a full-stack hospital management application with role-based access for admins and users.
+- Built backend APIs and integrated frontend workflows for hospital operations.
+- Implemented an AI chatbot to assist patients and administrators.
+- Designed responsive dashboards to simplify hospital management.
+
+### 🤖 [Nuytic AI — AI-Powered Health App](https://nuytic.ai/)
+
+**Tech Stack:** React Native, TypeScript, Expo, TanStack Query, Zustand, NativeWind
+
+- Built a cross-platform health application featuring AI-powered meal scanning and nutrition estimation.
+- Implemented personalized meal planning and resumable onboarding flows.
+- Developed secure OTP authentication and subscription-based feature access.
+- Created a reusable UI system with **20+ components**, English/Arabic localization, and RTL support.
+
+### 🥗 [HealthyEats — Meal Delivery Platform](https://healthyeats.fladdra.com/)
+
+**Tech Stack:** Next.js, React, TypeScript, PostgreSQL, Supabase, Tailwind CSS, CyberSource
+
+- Developed a full-stack meal ordering platform with user, admin, and partner dashboards.
+- Implemented meal plans, shopping cart, checkout, coupons, and dietary management.
+- Integrated email verification, OTP authentication, and password reset workflows.
+- Integrated the CyberSource payment gateway with commission and payout tracking.
+
+### 📦 Panasonic Digital Returns
+
+**Tech Stack:** Django, Django REST Framework, PostgreSQL, React
+
+- Developed backend APIs for a digital returns management system.
+- Implemented modules for inspection creation, segregation, and return-to-vendor (RTV) management.
+- Improved workflow automation and system reliability through backend integration.
+
+### 🌐 [My Portfolio](https://sayyadshahid.github.io/portfolio)
+
+**Tech Stack:** React, JavaScript, HTML, CSS
+
+- Created a personal portfolio showcasing technical skills, projects, and development experience.
+- Designed an interactive interface to present my work and professional journey.
 
 ---
 
-### 🎓 **Education**
+## 🎓 Education
 
-**Bachelor of Science in Computer Applications (BCA)**  
-_Savitribai Phule Pune University (SPPU)_  
-📘 *Currently Pursuing – 2nd Year*
+**Bachelor of Science in Computer Applications**
+
+Savitribai Phule Pune University (SPPU) — Pune, India
+
+*Currently Pursuing*
+
+---
+
+## 📜 Certifications
+
+- **Python Web Development Bootcamp: From Beginner to Full-Stack Developer** — April 2025
 
 ---
 
-### 📊 **GitHub Insights**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyadshahid&layout=compact&theme=default&hide_border=false)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sayyadshahid&bg_color=ffffff&color=000000&line=0077b5&point=333333&area=true&hide_border=true)
-
----
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayyadshahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Shahid's GitHub Stats" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyadshahid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyadshahid&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayyadshahid&theme=tokyo-night&hide_border=true&area=true&custom_title=Shahid%20Sayyad's%20Contribution%20Graph" alt="GitHub Contribution Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sayyadshahid&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🤝 **Let’s Connect**
+## 🤝 Let's Connect
 
-I’m open to **internships, collaborations, and freelance projects**.  
-💬 Let’s connect and build something great together!  
-📩 [i.shahidsayyad@gmail.com](mailto:i.shahidsayyad@gmail.com)
+I'm interested in building impactful software, exploring AI-powered applications, and improving backend and cloud infrastructure.
+
+- 💼 Open to relevant software engineering opportunities and collaborations.
+- 🚀 Interested in backend engineering, full-stack development, AI integrations, and cloud technologies.
+- 🌐 **Portfolio:** [sayyadshahid.github.io/portfolio](https://sayyadshahid.github.io/portfolio)
+- 📧 **Email:** [i.shahidsayyad@gmail.com](mailto:i.shahidsayyad@gmail.com)
+
+<h3 align="center">⭐ Thanks for visiting my profile — let's build something great together!</h3>
