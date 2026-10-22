@@ -173,10 +173,13 @@ Savitribai Phule Pune University (SPPU) — Pune, India
 
 ---
 
+
+---
+
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayyadshahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Shahid's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayyadshahid&show_icons=true&theme=tokyonight&hide_border=true" alt="Shahid's GitHub Stats" height="180"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyadshahid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" height="180"/>
 </p>
@@ -185,13 +188,35 @@ Savitribai Phule Pune University (SPPU) — Pune, India
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyadshahid&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
+
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayyadshahid&theme=tokyo-night&hide_border=true&area=true&custom_title=Shahid%20Sayyad's%20Contribution%20Graph" alt="GitHub Contribution Graph" width="100%"/>
+  <a href="https://github.com/sayyadshahid">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=sayyadshahid&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="Shahid's GitHub Statistics"
+      width="48%"
+    />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/sayyadshahid">
+    <img
+      src="https://komarev.com/ghpvc/?username=sayyadshahid&style=flat-square&color=blueviolet"
+      alt="Profile Views"
+    />
+  </a>
+</p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sayyadshahid&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
+
+---
+
 
 ---
 
